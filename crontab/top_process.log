@@ -1,0 +1,9 @@
+--- Process Monitoring: Wed Feb  5 17:11:14 +0545 2025 ---
+Top 5 CPU-consuming processes:
+    PID USER     %CPU %MEM
+      1 root      1.1  0.1
+    444 root      0.5  0.4
+      2 root      0.0  0.0
+      7 root      0.0  0.0
+     36 root      0.0  0.1
+-----------------------------------
